@@ -948,3 +948,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', end
 .lunbo_tip , .lunbo_tip li{text-align:center;}
 .lunbo_tip li{display:inline-block;width:8px ;height:8px;background:#fff;border-radius:100px;cursor:pointer;background-position:center center;background-repeat:no-repeat;}
 .lunbo_tip .focus{background:#ff8b00;}
+
+
+
+#software{
+	background-color: blue;
+	text-align: center;
+	padding: 10px;
+}
